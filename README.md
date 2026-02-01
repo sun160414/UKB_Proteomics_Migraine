@@ -1,5 +1,3 @@
-![Fig1](https://github.com/user-attachments/assets/da5bacf5-4f92-4760-9e91-94f9ff4cbe35)# Proteomics_Migraine
-
 **Plasma proteomics identifies proteins and pathways associated with incident migraine in 50,668 adults**
 
 This repository contains analysis code supporting a large-scale prospective plasma proteomics study of incident migraine based on the UK Biobank.
@@ -100,3 +98,5 @@ The project integrates **longitudinal proteomics**, **survival analysis**, **tra
 - This repository focuses on **analysis pipelines**, not raw data
 - Scripts are modular and can be adapted to other proteomic or longitudinal disease studies
 - Contributions and issues are welcome
+
+![Fig1](https://github.com/user-attachments/assets/da5bacf5-4f92-4760-9e91-94f9ff4cbe35)
