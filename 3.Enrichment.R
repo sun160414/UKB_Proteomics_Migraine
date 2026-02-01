@@ -16,7 +16,7 @@ suppressPackageStartupMessages({
 ## -------------------------
 ## 0) User settings
 ## -------------------------
-infile <- "核心基因.csv"       # input gene list file
+infile <- "mygenes.csv"       # input gene list file
 show_genes <- TRUE             # show geneID text under term label
 go_top_per_ont <- 4            # top terms per ontology (BP/CC/MF)
 kegg_top_n <- 12               # top KEGG pathways
